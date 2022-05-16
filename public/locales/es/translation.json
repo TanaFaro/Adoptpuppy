@@ -1,0 +1,20 @@
+{
+  "common": {
+    "loading": "Cargando ...",
+    "title": "Razas de perros"
+  },
+  "home": {
+    "title": "Inicio",
+    "loadingDogs": "Cargando los perros ...",
+    "loadingBreeds": " ",
+    "selectBreed": "Seleccione una raza",
+    "search": "Buscar"
+  },
+  "dogDetail": {
+    "title": "Detalle imagen",
+    "backToHome": "Volver a la Home"
+  },
+  "errorPage": {
+    "title": "Página de error 404"
+  }
+}

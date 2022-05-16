@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.App-content {
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}
+
+
